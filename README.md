@@ -16,7 +16,7 @@
 <img src="./images/Illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 💻 Full-Stack Developer (React • Node.js • Express • PostgreSQL • MongoDB)
-- Backend-focused developer seeking opportunities in full-stack development
+- Backend-focused developer seeking opportunities in Node.js Backend Developer positions
 - 🚀 Passionate about modern web application development
 - 🌱 Currently exploring **DevOps & Cloud (Docker, AWS, Vercel)**
 - 🧩 Skilled in **REST API Design, Authentication (JWT), UI & UX**
